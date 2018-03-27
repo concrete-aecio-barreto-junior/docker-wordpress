@@ -15,22 +15,22 @@ Docker compose to deploy [Wordpress](https://wordpress.org/download/) from Docke
 ```
 $ git clone https://github.com/concrete-aecio-barreto-junior/docker-wordpress.git
 ```
-![Clonning](https://github.com/concrete-aecio-barreto-junior/docker-wordpress/blob/master/clonning.png "Clonning...")
+![Clonning](https://github.com/concrete-aecio-barreto-junior/docker-wordpress/blob/master/images/clonning.png "Clonning...")
 
 
 - Running:
 ```
 $ docker-compose up
 ```
-![Running](https://github.com/concrete-aecio-barreto-junior/docker-wordpress/blob/master/running.png "Running...")
+![Running](https://github.com/concrete-aecio-barreto-junior/docker-wordpress/blob/master/images/running.png "Running...")
 
 - Checking containers:
 ```
 $ docker ps
 ```
-![Checking](https://github.com/concrete-aecio-barreto-junior/docker-wordpress/blob/master/checking.png "Checking...")
+![Checking](https://github.com/concrete-aecio-barreto-junior/docker-wordpress/blob/master/images/checking.png "Checking...")
 
 - Accessing:
 
 Access the following URL: [http://localhost:8080](http://localhost:8080)
-![Accessing](https://github.com/concrete-aecio-barreto-junior/docker-wordpress/blob/master/accessing.png "Accessing...")
+![Accessing](https://github.com/concrete-aecio-barreto-junior/docker-wordpress/blob/master/images/accessing.png "Accessing...")
