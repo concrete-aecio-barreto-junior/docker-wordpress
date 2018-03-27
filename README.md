@@ -22,4 +22,5 @@ $ docker-compose up
 ```
 
 - Accessing:
-### Access the following URL: [http://localhost:8080](http://localhost:8080)
+
+Access the following URL: [http://localhost:8080](http://localhost:8080)
