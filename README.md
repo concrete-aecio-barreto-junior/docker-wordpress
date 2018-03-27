@@ -1,9 +1,12 @@
-# Docker compose to deploy Wordpress from DockerHub images
 
-__Concrete Solutions | DevOps - OnBoarding__
+__[Concrete Solutions](http://www.concretesolutions.com.br) | DevOps - OnBoarding__
 
 # **Trello (Card):** Learn the basics about Docker
-**Description:**
+
+Docker compose to deploy Wordpress from DockerHub images
+
+
+**Tasks**
 - Use 2 images available on Docker Hub to set up an application with Web Server and Database (ex: Apache and MySQL) 
 - Use Docker Compose to run your environment
 
