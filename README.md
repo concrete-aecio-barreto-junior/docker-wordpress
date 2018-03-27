@@ -5,21 +5,21 @@ __[Concrete Solutions](http://www.concretesolutions.com.br) | DevOps - OnBoardin
 
 Docker compose to deploy [Wordpress](https://wordpress.org/download/) from DockerHub images
 
-**Tasks**
+## **Tasks**
 - Use 2 images available on Docker Hub to set up an application with Web Server and Database (ex: Apache and MySQL) 
 - Use Docker Compose to run your environment
 
-**Steps:**
+## **Steps**
 
 - Clonning:
 ```
 $ git clone https://github.com/concrete-aecio-barreto-junior/docker-wordpress.git
 ```
 
-- Running::
+- Running:
 ```
 $ docker-compose up
 ```
 
 - Accessing:
-Access the following URL: [http://localhost:8080](http://localhost:8080)
+### Access the following URL: [http://localhost:8080](http://localhost:8080)
