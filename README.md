@@ -20,3 +20,6 @@ $ git clone https://github.com/concrete-aecio-barreto-junior/docker-wordpress.gi
 ```
 $ docker-compose up
 ```
+
+- Accessing:
+Access the following URL: [http://localhost:8080](http://localhost:8080)
