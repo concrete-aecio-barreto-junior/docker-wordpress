@@ -3,8 +3,7 @@ __[Concrete Solutions](http://www.concretesolutions.com.br) | DevOps - OnBoardin
 
 # **Trello (Card):** Learn the basics about Docker
 
-Docker compose to deploy Wordpress from DockerHub images
-
+Docker compose to deploy [Wordpress](https://wordpress.org/download/) from DockerHub images
 
 **Tasks**
 - Use 2 images available on Docker Hub to set up an application with Web Server and Database (ex: Apache and MySQL) 
