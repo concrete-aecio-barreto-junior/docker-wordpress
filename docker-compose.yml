@@ -1,0 +1,25 @@
+# DevOps | OnBoarding - Concrete Solutions.
+#
+# Trello.......: Learn the basics about Docker (card)
+# Description..: Use 2 images available on Docker Hub to set up an application with Web Server and Database
+# Author.......: Aecio Paes Barreto Junior <aecio.barreto.junior@concrete.com.br>
+# Date.........: Ter 26 Mar 2018
+#
+# Github.......: 
+version: '3.1'
+
+services:
+
+  wordpress:
+    image: wordpress
+    restart: always
+    ports:
+      - 8080:80
+    environment:
+      WORDPRESS_DB_PASSWORD: example
+
+  mysql:
+    image: mysql:5.7
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: example
